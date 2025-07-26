@@ -16,6 +16,15 @@
 
 *※このフロー図はGeminiで生成されたもので、実際の開発ワークフローを視覚化しています。*
 
+### 🎯 活用例
+
+- **[Cutlery_Case - BlendrMCP活用例](https://github.com/tomomo086/Cutlery_Case/tree/main)** - BlendrMCPを使用した3Dモデリングプロジェクトの実践例
+
+**BlendrMCPの特徴と用途：**
+- **幾何学図形・用途限定**: 基本的な幾何学図形の生成や用途が限定的な場面で効果を発揮
+- **アドオン連携**: SketchfabやHyper3Dなどのアドオンとの連携により、より高度な機能を活用可能
+- **デザイン適性**: 機械設計よりもキャラクターや有機的なデザインの作成に適している
+
 ### ⚠️ 重要な注意事項
 **AI全般について**: AIが教えてくれることを鵜呑みにせず、批判的思考を忘れずにうまく活用することが、正しい答えにたどり着く方法です。AIは強力なツールですが、人間の判断と検証が不可欠です。
 
@@ -226,7 +235,6 @@
 
 - [tomomo086:Github](https://github.com/tomomo086)
 - [@mirai_sousiyo39:X](https://x.com/mirai_sousiyo39)
-- [Cutlery_Case - BlendrMCP活用例](https://github.com/tomomo086/Cutlery_Case/tree/main) - BlendrMCPを使用した3Dモデリングプロジェクト
 
 ---
 
