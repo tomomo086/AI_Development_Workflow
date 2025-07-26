@@ -187,8 +187,11 @@
 - 物理作業支援での活用可能性検証
 - **ElegooSlicer一時停止方法の教示**: GeminiにElegooSlicerの一時停止方法を教えてもらえた実例
 - **視覚認識・物体世界知識の優位性**: Claudeと比較して、Geminiの方が視覚認識と物体世界に対する知識が広く、助言の質が高い（結果が証明済み）
+- **フロー図生成能力**: AI統合ワークフローの視覚化に成功し、開発プロセスの理解促進に効果的
 
 ![GeminiでのElegooSlicer一時停止方法の教示](assets/screenshots/ss_41.png)
+
+![Gemini生成AI統合ワークフロー図](assets/screenshots/ss_42.png)
 
 ## 🔧 クイックスタート
 
