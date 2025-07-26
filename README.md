@@ -47,6 +47,7 @@
 - **ClaudeCode**: コマンドライン統合開発
 - **Claude Desktop**: FilesystemMCP による自動化
 - **FilesystemMCP**: フォルダ・ファイルの作成・編集・操作を自動化
+- **BlendrMCP**: Blender統合・3Dモデリング支援・自動化
 - **Cursor**: 詳細編集・品質向上・最適化作業
   - **Reject/Accept機能**: 細かな段階的修正が可能
   - **時間制限なし**: 他のAIは時間ごとの制限があるが、Cursorは月ごとの制限のため制限を気にせず編集可能
@@ -73,6 +74,7 @@
   - Claude: ClaudeCode + Claude Desktop (FilesystemMCP) - メイン運用
   - Gemini: Google AI Pro - 検証中
   - Grok3: アイデア出し時の併用
+  - BlendrMCP: Claude DesktopでのBlender統合・3Dモデリング支援
 - **開発ツール**:
   - Git: 2.49.0 + SSH鍵 (ED25519)
   - Node.js: v22.16.0 + npm 10.9.2
@@ -224,6 +226,7 @@
 
 - [tomomo086:Github](https://github.com/tomomo086)
 - [@mirai_sousiyo39:X](https://x.com/mirai_sousiyo39)
+- [Cutlery_Case - BlendrMCP活用例](https://github.com/tomomo086/Cutlery_Case/tree/main) - BlendrMCPを使用した3Dモデリングプロジェクト
 
 ---
 
