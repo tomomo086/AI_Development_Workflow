@@ -59,7 +59,7 @@
 
 ![仕様書作成とClaudeCode用資料準備](assets/screenshots/ss_02.png)
 
-![ClaudeCode実装用資料作成完了](assets/screenshots/ss_13.png)
+![ClaudeCode実装用仕様書の詳細内容](assets/screenshots/ss_03.png)
 
 ### 3. 実装・フォルダ構造作成
 - **PowerShell**で`projects`フォルダに移動
