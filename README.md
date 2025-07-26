@@ -152,8 +152,6 @@
 
 ![写真ファイル名の短縮処理実行](assets/screenshots/ss_33.png)
 
-![ファイル名変更の実行と確認](assets/screenshots/ss_35.png)
-
 ![変更されたファイル構造の確認](assets/screenshots/ss_36.png)
 
 ![最終的なファイル構造と管理状態](assets/screenshots/ss_39.png)
@@ -170,8 +168,6 @@
 ![GitHub Desktopでのローカルリポジトリ状態確認](assets/screenshots/ss_15.png)
 
 ![GitHub Desktopでのリポジトリパブリッシュ設定](assets/screenshots/ss_19.png)
-
-![リポジトリパブリッシュ設定の詳細](assets/screenshots/ss_20.png)
 
 ![GitHub上での公開されたリポジトリ確認](assets/screenshots/ss_21.png)
 
