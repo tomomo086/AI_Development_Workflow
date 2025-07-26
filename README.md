@@ -251,7 +251,7 @@
 
 #### ClaudeCode + Cursor を例としたサイクル回し
 
-![ClaudeCodeでの継続的改善サイクル実行](assets/screenshots/ss_42.png)
+![継続的改善サイクルの進行状況](assets/screenshots/ss_44.png)
 
 **ClaudeCode → Cursor → ClaudeCode のサイクル例**:
 1. **ClaudeCode**: 新機能の基本実装
@@ -261,7 +261,7 @@
 5. **Cursor**: 再度の品質向上（2に戻る）
 6. **統合**: GitHubへのコミット・プッシュ
 
-![Cursorでの品質向上サイクル実践](assets/screenshots/ss_43.png)
+![3Dプリント・ハードウェア作業の継続的改善サイクル](assets/screenshots/ss_45.png)
 
 **Cursor → ClaudeCode → Cursor のサイクル例**:
 1. **Cursor**: 既存コードの詳細分析
@@ -287,10 +287,6 @@
 - **技術的負債削減**: 継続的なリファクタリングによる健全性維持
 
 **重要**: **基本はどこに戻ってもいい**という柔軟性を持つことで、AI(LLM)の学習効果も最大化され、開発効率とコード品質の両方が継続的に向上します。固定された順序ではなく、状況に応じて任意のステップに戻って改善サイクルを回すことが、AI駆動開発の成功の鍵です。
-
-![ClaudeCodeでの継続的改善サイクル実行](assets/screenshots/ss_42.png)
-
-![Cursorでの品質向上サイクル実践](assets/screenshots/ss_43.png)
 
 
 
