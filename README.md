@@ -251,8 +251,6 @@
 
 #### ClaudeCode + Cursor を例としたサイクル回し
 
-![継続的改善サイクルの進行状況](assets/screenshots/ss_44.png)
-
 **ClaudeCode → Cursor → ClaudeCode のサイクル例**:
 1. **ClaudeCode**: 新機能の基本実装
 2. **Cursor**: コード品質の向上と最適化
@@ -261,7 +259,7 @@
 5. **Cursor**: 再度の品質向上（2に戻る）
 6. **統合**: GitHubへのコミット・プッシュ
 
-![3Dプリント・ハードウェア作業の継続的改善サイクル](assets/screenshots/ss_45.png)
+![ClaudeCodeでの継続的改善サイクル実行](assets/screenshots/ss_44.png)
 
 **Cursor → ClaudeCode → Cursor のサイクル例**:
 1. **Cursor**: 既存コードの詳細分析
@@ -270,6 +268,8 @@
 4. **評価**: さらなる改善点を発見
 5. **ClaudeCode**: 追加改善の実装（2に戻る）
 6. **Cursor**: 最終品質チェック（3に戻る）
+
+![Cursorでの品質向上サイクル実践](assets/screenshots/ss_45.png)
 
 #### 柔軟なブランチ戦略
 
