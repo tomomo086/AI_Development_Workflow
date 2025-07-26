@@ -78,6 +78,8 @@
 
 ![実装完了とファイル作成確認](assets/screenshots/ss_10.png)
 
+![段階的タスク実行と進捗管理の進行状況](assets/screenshots/ss_13.png)
+
 ### 4. GitHubへの公開
 - **GitHub Desktop**でローカルリポジトリの状態を確認
 - リポジトリ名、説明、プライベート設定を指定してGitHubにパブリッシュ
