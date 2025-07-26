@@ -80,6 +80,37 @@
 
 ![段階的タスク実行と進捗管理の進行状況](assets/screenshots/ss_13.png)
 
+### 3.5. ローカル編集・ファイル管理
+- **GitHub Desktop**でローカルリポジトリの状態を確認
+- **Cursor**でプロジェクトを開いて詳細編集を実行
+- **AIアシスタント**を使用してMITライセンスファイルを自動生成
+- 写真配置ファイルの作成とファイル名の最適化
+- 段階的なファイル管理とコミット準備
+
+![GitHub Desktopでのローカルリポジトリ状態確認](assets/screenshots/ss_22.png)
+
+![Cursorでのプロジェクト編集開始](assets/screenshots/ss_23.png)
+
+![AIアシスタントでのMITライセンス作成依頼](assets/screenshots/ss_25.png)
+
+![MITライセンスファイルの作成と確認](assets/screenshots/ss_26.png)
+
+![GitHub DesktopでのMITライセンス関連ファイルコミット](assets/screenshots/ss_28.png)
+
+![GitHub Desktopでのプッシュ準備状態](assets/screenshots/ss_29.png)
+
+![AIアシスタントでの写真配置ファイル作成依頼](assets/screenshots/ss_31.png)
+
+![写真配置ファイルの作成と設定](assets/screenshots/ss_32.png)
+
+![写真ファイル名の短縮処理実行](assets/screenshots/ss_33.png)
+
+![ファイル名変更の実行と確認](assets/screenshots/ss_35.png)
+
+![変更されたファイル構造の確認](assets/screenshots/ss_36.png)
+
+![最終的なファイル構造と管理状態](assets/screenshots/ss_39.png)
+
 ### 4. GitHubへの公開
 - **GitHub Desktop**でローカルリポジトリの状態を確認
 - リポジトリ名、説明、プライベート設定を指定してGitHubにパブリッシュ
