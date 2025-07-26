@@ -192,17 +192,11 @@
 
 ## 🔧 クイックスタート
 
-1. **リポジトリクローン**
-```bash
-git clone https://github.com/[username]/ai-workflow-integration.git
-cd ai-workflow-integration
-```
-
-2. **ドキュメント確認**
+1. **ドキュメント確認**
 - [開発環境構築ガイド](docs/development-setup.md)を参照
 - 環境に応じて設定手順を実行
 
-3. **Claude統合設定**
+2. **Claude統合設定**
 - [Claude統合環境ガイド](docs/claude-integration.md)を参照
 - ClaudeCode + Claude Desktop設定
 
