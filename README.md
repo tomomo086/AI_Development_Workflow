@@ -94,14 +94,6 @@
 
 ![GitHub上での公開されたリポジトリ確認](assets/screenshots/ss_21.png)
 
-### 5. 継続的開発
-- 作成された構造を基に詳細実装
-- 必要に応じてClaude DesktopとClaudeCodeを併用
-- **FilesystemMCP**でファイル操作・編集の自動化
-- 実用レベルでの継続運用
-
-![継続的開発の進行状況](assets/screenshots/ss_13.png)
-
 ## 📖 ドキュメント
 
 ### 詳細ガイド
