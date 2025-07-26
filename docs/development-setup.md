@@ -9,7 +9,7 @@ WSL2 + Docker + Git統合による開発環境の構築手順を詳細に説明�
 ## 基盤環境
 
 ### システム要件
-- **OS**: Windows 11 Pro
+- **OS**: Windows 11
 - **RAM**: 16GB以上推奨（32GB使用中）
 - **ストレージ**: SSD 500GB以上
 
