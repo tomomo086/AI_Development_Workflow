@@ -67,8 +67,6 @@
 - 仕様書の内容を元にフォルダ構造を自動生成
 - 段階的なタスク実行と進捗管理
 
-![ClaudeCodeでの実装開始](assets/screenshots/ss_05.png)
-
 ![フォルダ構造作成の進行状況](assets/screenshots/ss_07.png)
 
 ![ClaudeCodeでのタスク実行](assets/screenshots/ss_09.png)
