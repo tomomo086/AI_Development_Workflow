@@ -13,11 +13,13 @@
 ### AI開発手法の実践例
 - **Claude Desktop**: 開発前のアイデア出し・方向性決定（Grok3も併用）
 - **ClaudeCode**: 具体的な実装・フォルダ構造作成
+- **FilesystemMCP**: Claude Desktopでのフォルダ・ファイル操作の自動化
 - **段階的開発**: アイデア→仕様書→実装の流れ
 
 ### Claude二刀流活用
 - **ClaudeCode**: コマンドライン統合開発
 - **Claude Desktop**: FilesystemMCP による自動化
+- **FilesystemMCP**: フォルダ・ファイルの作成・編集・操作を自動化
 
 ### 統合開発環境
 - **WSL2 + Docker**統合開発環境
@@ -48,6 +50,7 @@
 ### 1. アイデア出し・方向性決定
 - **Claude Desktop**を使用して大まかな方向性を決定
 - 必要に応じて**Grok3**も併用してアイデアを発展
+- **FilesystemMCP**でフォルダ・ファイルの初期作成も実行
 - 開発前の戦略立案と要件整理
 
 ![Claude Desktopでのアイデア出し](assets/screenshots/ss_01.png)
@@ -76,6 +79,7 @@
 ### 4. 継続的開発
 - 作成された構造を基に詳細実装
 - 必要に応じてClaude DesktopとClaudeCodeを併用
+- **FilesystemMCP**でファイル操作・編集の自動化
 - 実用レベルでの継続運用
 
 ![継続的開発の進行状況](assets/screenshots/ss_13.png)
