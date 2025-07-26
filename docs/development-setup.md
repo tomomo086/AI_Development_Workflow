@@ -6,12 +6,34 @@
 
 WSL2 + Docker + Git統合による開発環境の構築手順を詳細に説明します。
 
-## 基盤環境
+### ⚠️ 重要な注意事項
+**AI(LLM)全般について**: AI(LLM)が教えてくれることを鵜呑みにせず、批判的思考を忘れずに自分でも調べてAI(LLM)の舵を取ることが、正しい答えにたどり着く方法だと思いました。AI(LLM)は強力なツールですが、人間の判断と検証が不可欠です。
 
-### システム要件
-- **OS**: Windows 11
-- **RAM**: 16GB以上推奨（32GB使用中）
-- **ストレージ**: SSD 500GB以上
+## ワークフローの核心コンセプト
+私のワークフローの核心は、アイデア出しと自動化の『Claude Desktop』、高速な実装の『ClaudeCode』、そして**最終的な品質向上の『Cursor』**という3つのツールを連携させることです。この『適材適所』の使い分けにより、開発プロセス全体を効率化します。
+
+## 🛠️ 環境構成
+
+### ハードウェア構成
+
+※このPC構成は、趣味であるオンラインゲームを快適に楽しみ、妻とも一緒にプレイできる性能を重視しつつ、開発用途とも両立できるバランスを意識しています。
+
+- **OS**: Windows 11 + WSL2 (Ubuntu 22.04.5 LTS)
+- **CPU**: AMD Ryzen 7 7700X
+- **GPU**: RX 7800 XT
+- **RAM**: 32GB DDR5
+
+### ソフトウェアスタック
+- **AI(LLM)環境**: 
+  - Claude: ClaudeCode + Claude Desktop (FilesystemMCP) - メイン運用
+  - Gemini: Google AI(LLM) Pro - 検証中
+  - Grok3: アイデア出し時の併用
+  - BlendrMCP: Claude DesktopでのBlender統合・3Dモデリング支援
+- **開発ツール**:
+  - Git: 2.49.0 + SSH鍵 (ED25519)
+  - Node.js: v22.16.0 + npm 10.9.2
+  - Docker: Desktop 28.1.1 + WSL2統合
+  - Cursor: Git統合・Claude連携・AI(LLM)アシスタント機能・Reject/Accept機能・複数AI(LLM)対応
 
 ### WSL2 + Ubuntu環境構築
 
