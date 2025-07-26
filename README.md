@@ -55,6 +55,8 @@
 
 ![Claude Desktopでのアイデア出し](assets/screenshots/ss_01.png)
 
+![アイデア出しと方向性決定の進行状況](assets/screenshots/ss_40.png)
+
 ### 2. 仕様書作成
 - ローカルの`dev/projects`フォルダ内に仕様書を作成
 - ClaudeCodeが理解しやすい形式で情報を整理
