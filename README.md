@@ -166,8 +166,6 @@
 
 ![Cursorでのプロジェクト編集開始](assets/screenshots/ss_23.png)
 
-![LLMアシスタントでのMITライセンス作成依頼](assets/screenshots/ss_25.png)
-
 ![MITライセンスファイルの作成と確認](assets/screenshots/ss_26.png)
 
 ![GitHub DesktopでのMITライセンス関連ファイルコミット](assets/screenshots/ss_28.png)
