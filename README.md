@@ -271,13 +271,6 @@
 
 ![Cursorでの品質向上サイクル実践](assets/screenshots/ss_45.png)
 
-#### 柔軟なブランチ戦略
-
-- **feature/any-step-return**: 任意のステップに戻るための実験ブランチ
-- **experimental/flexible-workflow**: 柔軟なワークフロー実験
-- **hotfix/quick-return**: 緊急時の任意ステップ戻り
-- **refactor/flexible-cycles**: 柔軟なサイクル回しの最適化
-
 #### サイクル回しの成功指標
 
 - **柔軟性**: 任意のステップに戻れる自由度
