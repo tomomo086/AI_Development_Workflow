@@ -4,7 +4,7 @@
 
 ## 📊 AI統合ワークフロー図（Gemini生成）
 
-![Gemini生成AI統合ワークフロー図](assets/screenshots/ss_42.png)
+![Gemini生成AI統合ワークフロー図](assets/screenshots/ss_43.png)
 
 *※このフロー図はGeminiで生成されたもので、実際の開発ワークフローを視覚化しています。*
 
