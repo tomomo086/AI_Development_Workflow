@@ -78,7 +78,21 @@
 
 ![実装完了とファイル作成確認](assets/screenshots/ss_10.png)
 
-### 4. 継続的開発
+### 4. GitHubへの公開
+- **GitHub Desktop**でローカルリポジトリの状態を確認
+- リポジトリ名、説明、プライベート設定を指定してGitHubにパブリッシュ
+- 公開されたリポジトリの確認と初期コミットの確認
+- 開発成果の共有とバージョン管理の開始
+
+![GitHub Desktopでのローカルリポジトリ状態確認](assets/screenshots/ss_15.png)
+
+![GitHub Desktopでのリポジトリパブリッシュ設定](assets/screenshots/ss_19.png)
+
+![リポジトリパブリッシュ設定の詳細](assets/screenshots/ss_20.png)
+
+![GitHub上での公開されたリポジトリ確認](assets/screenshots/ss_21.png)
+
+### 5. 継続的開発
 - 作成された構造を基に詳細実装
 - 必要に応じてClaude DesktopとClaudeCodeを併用
 - **FilesystemMCP**でファイル操作・編集の自動化
