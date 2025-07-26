@@ -180,7 +180,7 @@
 
 ![GitHub上での公開されたリポジトリ確認](assets/screenshots/ss_21.png)
 
-## �� ドキュメント
+## 📚 ドキュメント
 
 ### 詳細ガイド
 - [Claude統合環境](docs/claude-integration.md) - ClaudeCode + Claude Desktop使い分け戦略
