@@ -50,10 +50,14 @@
 - 必要に応じて**Grok3**も併用してアイデアを発展
 - 開発前の戦略立案と要件整理
 
+![Claude Desktopでのアイデア出し](assets/screenshots/ss_01.png)
+
 ### 2. 仕様書作成
 - ローカルの`dev/projects`フォルダ内に仕様書を作成
 - ClaudeCodeが理解しやすい形式で情報を整理
 - 実装に必要な詳細情報を体系的にまとめる
+
+![仕様書作成とClaudeCode用資料準備](assets/screenshots/ss_02.png)
 
 ### 3. 実装・フォルダ構造作成
 - **PowerShell**で`projects`フォルダに移動
@@ -61,10 +65,20 @@
 - 仕様書の内容を元にフォルダ構造を自動生成
 - 段階的なタスク実行と進捗管理
 
+![ClaudeCodeでの実装開始](assets/screenshots/ss_05.png)
+
+![フォルダ構造作成の進行状況](assets/screenshots/ss_07.png)
+
+![ClaudeCodeでのタスク実行](assets/screenshots/ss_09.png)
+
+![実装完了とファイル作成確認](assets/screenshots/ss_10.png)
+
 ### 4. 継続的開発
 - 作成された構造を基に詳細実装
 - 必要に応じてClaude DesktopとClaudeCodeを併用
 - 実用レベルでの継続運用
+
+![完成したプロジェクト構造](assets/screenshots/ss_12.png)
 
 ## 📖 ドキュメント
 
