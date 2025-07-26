@@ -206,14 +206,30 @@
 - [Claude統合環境ガイド](docs/claude-integration.md)を参照
 - ClaudeCode + Claude Desktop設定
 
-## 📝 ライセンス
+## 📄 ライセンス
 
-このプロジェクトはMITライセンスの下で公開されています。詳細は[LICENSE](LICENSE)ファイルを参照してください。
+このプロジェクトは [MIT License](LICENSE) の下で公開されています。  
+商用・非商用問わず自由にご利用ください。
 
-## 🤝 コントリビューション
+## 📋 開発情報
 
-このリポジトリは個人での開発で編み出した主観的なワークフロー記録です。
+| **開発者** | tomomo086 + Claude4 |
+| **開発期間** | 2025年7月 |
+| **バージョン** | 1.0.0 |
+| **開発ツール** | Claude4, ClaudeCode, Cursor |
 
 ---
 
-**実際の開発環境で使用している設定とワークフローを公開しています。転職活動でのポートフォリオとしても活用中。**
+## 🔗 関連リンク
+
+- [tomomo086:Github](https://github.com/tomomo086)
+- [@mirai_sousiyo39:X](https://x.com/mirai_sousiyo39)
+
+---
+
+**作成者**: [tomomo086(@mirai_sousiyo39) + Claude4]   
+**最終更新**: 2025年7月19日
+
+---
+
+*このREADMEもClaude4、ClaudeCode、CursorによるAI支援で作成されています 🤖💻*
