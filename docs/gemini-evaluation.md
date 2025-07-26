@@ -2,9 +2,10 @@
 
 ## 検証概要
 
-**検証期間**: 2025-01-25 〜 進行中
+**検証期間**: 2025-01-25 〜 進行中  
 **目的**: Google Gemini Pro の開発環境統合可能性評価  
-**比較対象**: Claude（ClaudeCode + Claude Desktop）
+**比較対象**: Claude（ClaudeCode + Claude Desktop）  
+**検証環境**: Cursor（Reject/Accept機能・時間制限なし・複数AI対応）
 
 ## 検証項目
 
@@ -42,6 +43,9 @@
 - [ ] プロジェクト理解度
 - [ ] デバッグ支援能力
 - [ ] ドキュメント生成品質
+- [ ] CursorでのReject/Accept機能活用
+- [ ] 時間制限なしでの編集効率
+- [ ] 複数AI使い分けの実用性
 
 ## 物理作業支援での活用検証
 
