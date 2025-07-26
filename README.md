@@ -10,6 +10,11 @@
 
 ## 💡 特徴
 
+### AI開発手法の実践例
+- **Claude Desktop**: 開発前のアイデア出し・方向性決定（Grok3も併用）
+- **ClaudeCode**: 具体的な実装・フォルダ構造作成
+- **段階的開発**: アイデア→仕様書→実装の流れ
+
 ### Claude二刀流活用
 - **ClaudeCode**: コマンドライン統合開発
 - **Claude Desktop**: FilesystemMCP による自動化
@@ -31,11 +36,35 @@
 - **AI環境**: 
   - Claude: ClaudeCode + Claude Desktop (FilesystemMCP) - メイン運用
   - Gemini: Google AI Pro - 検証中
+  - Grok3: アイデア出し時の併用
 - **開発ツール**:
   - Git: 2.49.0 + SSH鍵 (ED25519)
   - Node.js: v22.16.0 + npm 10.9.2
   - Docker: Desktop 28.1.1 + WSL2統合
   - Cursor: Git統合・Claude連携
+
+## 🔄 開発ワークフロー
+
+### 1. アイデア出し・方向性決定
+- **Claude Desktop**を使用して大まかな方向性を決定
+- 必要に応じて**Grok3**も併用してアイデアを発展
+- 開発前の戦略立案と要件整理
+
+### 2. 仕様書作成
+- ローカルの`dev/projects`フォルダ内に仕様書を作成
+- ClaudeCodeが理解しやすい形式で情報を整理
+- 実装に必要な詳細情報を体系的にまとめる
+
+### 3. 実装・フォルダ構造作成
+- **PowerShell**で`projects`フォルダに移動
+- **ClaudeCode**を起動して仕様書を参照
+- 仕様書の内容を元にフォルダ構造を自動生成
+- 段階的なタスク実行と進捗管理
+
+### 4. 継続的開発
+- 作成された構造を基に詳細実装
+- 必要に応じてClaude DesktopとClaudeCodeを併用
+- 実用レベルでの継続運用
 
 ## 📖 ドキュメント
 
@@ -78,6 +107,7 @@ cd ai-workflow-integration
 - **AI活用エンジニア・開発者**
 - **開発環境構築を効率化したい開発者**
 - **Claude統合ワークフローに興味がある制作者**
+- **段階的AI開発手法を学びたい開発者**
 
 ## 📝 ライセンス
 
