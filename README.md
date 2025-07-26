@@ -63,7 +63,7 @@
 
 ※このPC構成は、趣味であるオンラインゲームを快適に楽しみ、妻とも一緒にプレイできる性能を重視しつつ、開発用途とも両立できるバランスを意識しています。
 
-- **OS**: Windows 11 Pro + WSL2 (Ubuntu 22.04.5 LTS)
+- **OS**: Windows 11 + WSL2 (Ubuntu 22.04.5 LTS)
 - **CPU**: AMD Ryzen 7 7700X
 - **GPU**: RX 7800 XT
 - **RAM**: 32GB DDR5
