@@ -379,16 +379,6 @@
 
 ![GeminiでのElegooSlicer一時停止方法の教示](assets/screenshots/ss_41.png)
 
-## 🚀 クイックスタート
-
-1. **環境構築**
-- 本READMEの「🛠️ 環境構成」セクションを参照
-- ハードウェア・ソフトウェア要件を確認
-
-2. **Claude統合設定**
-- ClaudeCode + Claude Desktopの設定
-- FilesystemMCP、BlendrMCP等のMCP設定
-
 ## 📄 ライセンス
 
 このプロジェクトは [MIT License](LICENSE) の下で公開されています。  
