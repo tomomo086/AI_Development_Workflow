@@ -6,6 +6,11 @@
 
 WSL2 + Docker + Git統合による開発環境の構築手順を詳細に説明します。
 
+> **関連ドキュメント**:
+> - [Claude統合環境](claude-integration.md) - ClaudeCode + Claude Desktopの使い分け戦略
+> - [ワークフロー概要](workflow-overview.md) - 構築した環境での実践的ワークフロー
+> - [Gemini検証記録](gemini-evaluation.md) - 構築済み環境でのGemini検証
+
 ### ⚠️ 重要な注意事項
 **AI(LLM)全般について**: AI(LLM)が教えてくれることを鵜呑みにせず、批判的思考を忘れずに自分でも調べてAI(LLM)の舵を取ることが、正しい答えにたどり着く方法だと思いました。AI(LLM)は強力なツールですが、人間の判断と検証が不可欠です。
 
@@ -213,3 +218,11 @@ git --version
 ```
 
 この環境構築により、AI統合開発環境の基盤が完成します。
+
+## 次のステップ
+
+環境構築完了後は、以下のドキュメントで実際の開発ワークフローを学んでください：
+
+1. **[Claude統合環境ガイド](claude-integration.md)** - ClaudeCode + Claude Desktopの使い分け戦略を理解
+2. **[ワークフロー概要](workflow-overview.md)** - 実践的な開発フローを体験
+3. **[Gemini検証記録](gemini-evaluation.md)** - 追加のAIツール検証でさらなる品質向上

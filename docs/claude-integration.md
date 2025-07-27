@@ -28,12 +28,17 @@
 
 ClaudeCode + Claude Desktop の二刀流活用による開発環境統合について説明します。
 
+> **関連ドキュメント**:
+> - [ワークフロー概要](workflow-overview.md) - 実践的開発ワークフロー全体の流れ
+> - [開発環境構築](development-setup.md) - WSL2 + Docker環境構築手順
+> - [Gemini検証記録](gemini-evaluation.md) - Gemini活用検証の進捗
+
 ## AI(LLM)開発手法の実践例
 - **Claude Desktop**: 開発前のアイデア出し・方向性決定（Grok3も併用）
 - **ClaudeCode**: 具体的な実装・フォルダ構造作成
 - **FilesystemMCP**: Claude Desktopでのフォルダ・ファイル操作の自動化
 - **BlendrMCP**: Claude DesktopでのBlender統合・3Dモデリング支援
-  - **[Cutlery_Case - BlendrMCP活用例](https://github.com/tomomo086/Cutlery_Case/tree/main)** - 3Dモデリングプロジェクトの実践例
+  - **[Honeycomb_Coaster - BlendrMCP活用例](https://github.com/tomomo086/Honeycomb_Coaster)** - 3Dモデリングプロジェクトの実践例
   - **幾何学図形・用途限定**: 基本的な幾何学図形の生成や用途が限定的な場面で効果を発揮
   - **アドオン連携**: SketchfabやHyper3Dなどのアドオンとの連携により、より高度な機能を活用可能
   - **デザイン適性**: 機械設計よりもキャラクターや有機的なデザインの作成に適している
@@ -55,7 +60,17 @@ ClaudeCode + Claude Desktop の二刀流活用による開発環境統合につ�
   - **複数AI(LLM)対応**: Claude、Gemini、その他のAI(LLM)と使い分け可能
 
 ## 統合開発環境
-- **WSL2 + Docker**統合開発環境
-- **Git + GitHub**連携設定
-- **実用レベル**の統合ワークフロー
+- **WSL2 + Docker**統合開発環境 → [詳細な構築手順](development-setup.md#wsl2--ubuntu環境構築)
+- **Git + GitHub**連携設定 → [SSH鍵設定手順](development-setup.md#git--github連携)
+- **実用レベル**の統合ワークフロー → [完全なワークフロー手順](workflow-overview.md#実践的ai統合開発ワークフロー)
+
+## 継続的改善による品質向上
+
+Claude統合環境では、**基本はどこに戻ってもいい**という柔軟性を重視しています：
+
+- **Claude Desktop** ↔ **ClaudeCode** ↔ **Cursor** の自由な往復
+- 任意のタイミングでの改善サイクル実行
+- 人間がAIに適切な指示と情報を渡すための繰り返し改善
+
+詳細なサイクル回し手法については[ワークフロー概要の継続的改善セクション](workflow-overview.md#6-継続的改善とブランチ戦略)を参照してください。
 
