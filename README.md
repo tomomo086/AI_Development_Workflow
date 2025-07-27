@@ -381,13 +381,13 @@
 
 ## 🚀 クイックスタート
 
-1. **ドキュメント確認**
-- [開発環境構築ガイド](docs/development-setup.md)を参照
-- 環境に応じて設定手順を実行
+1. **環境構築**
+- 本READMEの「🛠️ 環境構成」セクションを参照
+- ハードウェア・ソフトウェア要件を確認
 
 2. **Claude統合設定**
-- [Claude統合環境ガイド](docs/claude-integration.md)を参照
-- ClaudeCode + Claude Desktop設定
+- ClaudeCode + Claude Desktopの設定
+- FilesystemMCP、BlendrMCP等のMCP設定
 
 ## 📄 ライセンス
 
