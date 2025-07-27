@@ -132,7 +132,7 @@
   - Grok3: アイデア出し時の併用
   - BlendrMCP: Claude DesktopでのBlender統合・3Dモデリング支援
 - **開発ツール**:
-  - Git: 2.49.0 + SSH鍵 (ED25519)
+  - Git: 2.49.0
   - Node.js: v22.16.0 + npm 10.9.2
   - Docker: Desktop 28.1.1 + WSL2統合
   - Cursor: Git統合・Claude連携・AIアシスタント機能・Reject/Accept機能・複数AI対応
