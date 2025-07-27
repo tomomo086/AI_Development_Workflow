@@ -45,7 +45,7 @@
 - **ClaudeCode**: 具体的な実装・フォルダ構造作成
 - **FilesystemMCP**: Claude Desktopでのフォルダ・ファイル操作の自動化
 - **BlendrMCP**: Claude DesktopでのBlender統合・3Dモデリング支援
-  - **[Cutlery_Case - BlendrMCP活用例](https://github.com/tomomo086/Cutlery_Case/tree/main)** - 3Dモデリングプロジェクトの実践例
+  - **[Honeycomb_Coaster - BlendrMCP活用例](https://github.com/tomomo086/Honeycomb_Coaster)** - 3Dモデリングプロジェクトの実践例
   - **幾何学図形・用途限定**: 基本的な幾何学図形の生成や用途が限定的な場面で効果を発揮
   - **アドオン連携**: SketchfabやHyper3Dなどのアドオンとの連携により、より高度な機能を活用可能
   - **デザイン適性**: 機械設計よりもキャラクターや有機的なデザインの作成に適している
