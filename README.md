@@ -393,8 +393,8 @@
 
 ![GeminiでのElegooSlicer一時停止方法の教示](assets/screenshots/ss_41.png)
 
-### SuperClaude導入検証（2025年7月末〜）
-- **導入時期**: 2025年7月末よりClaude Code SuperClaudeフレームワークを導入
+### SuperClaude導入検証（2025年7月29日〜）
+- **導入時期**: 2025年7月29日よりClaude Code SuperClaudeフレームワークを導入
 - **フレームワーク特徴**: 11のペルソナシステム、MCPサーバー統合、Waveオーケストレーション、タスク管理機能
 - **体感した効果**:
   - **多視点からの提案増加**: 複数の専門的な視点からの改善案が得られるように
