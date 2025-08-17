@@ -1,4 +1,4 @@
-# 🤖 AI開発ワークフロー - 実践的開発環境
+# 🤖 AI Enhanced Development Workflow - 実践的開発環境
 
 > エンジニア未経験から約4か月で実用レベルのAI統合開発環境を構築した実体験記録
 
@@ -50,7 +50,7 @@
 
 **「AIに舵を取られない」**：AIを鵜呑みにせず、批判的思考で人間が主導権を握る。これが未経験者でも実用レベルにたどり着けた最重要ポイント。
 
-### 📊 AI開発ワークフロー図（Gemini生成）
+### 📊 AI Enhanced Development Workflow図（Gemini生成）
 
 ![Gemini生成AI統合ワークフロー図](assets/screenshots/ss_43.png)
 
@@ -90,7 +90,7 @@
 
 ※上記はすべてtomomo086（エンジニア未経験から実践で習得）の主観的な感想です。
 
-### AI開発手法の実践例
+### AI Enhanced Development手法の実践例
 - **Claude Desktop**: 開発前のアイデア出し・方向性決定（Grok3も併用）
 - **ClaudeCode**: 具体的な実装・フォルダ構造作成
 - **FilesystemMCP**: Claude Desktopでのフォルダ・ファイル操作の自動化
